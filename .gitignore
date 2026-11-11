@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+# transient console logs from live builds/runs (contain the AWS account id)
+results/*.log

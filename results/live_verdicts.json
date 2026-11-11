@@ -1,0 +1,44 @@
+{
+  "A": {
+    "verdict": {
+      "contained": true,
+      "escape_events": [],
+      "outer_flag_leaks": [],
+      "actions": 49,
+      "log_entries": 76,
+      "tamper_detected": true,
+      "warden_chain_intact": true,
+      "entries_mirrored": 78,
+      "mirror": {
+        "ok": 78
+      },
+      "cage_error": null,
+      "driver": "harness",
+      "steps_taken": null,
+      "sensitive_exposed": null,
+      "warden_side_verdict": null
+    },
+    "microvm_id": "microvm-6329f3d1-d03d-34c6-bcf1-e47cced0b0bf"
+  },
+  "B": {
+    "verdict": {
+      "contained": true,
+      "escape_events": [],
+      "outer_flag_leaks": [],
+      "actions": 49,
+      "log_entries": 76,
+      "tamper_detected": true,
+      "warden_chain_intact": true,
+      "entries_mirrored": 78,
+      "mirror": {
+        "ok": 78
+      },
+      "cage_error": null,
+      "driver": "harness",
+      "steps_taken": null,
+      "sensitive_exposed": null,
+      "warden_side_verdict": null
+    },
+    "microvm_id": "microvm-eb418c27-ca85-381b-9ed8-796c37ec4995"
+  }
+}
